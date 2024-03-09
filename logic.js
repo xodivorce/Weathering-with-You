@@ -2,7 +2,7 @@ var firstPerson = "Prasid";
 var firstLocation = "Basirhat, India";
 
 var secondPerson = "Samriddhi";
-var secondLocation = "Meizhou, China";
+var secondLocation = "Kota, India";
 
 var oneLoc = new Location(firstPerson, firstLocation, "one");
 

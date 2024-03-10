@@ -1,12 +1,12 @@
 # Weathering With You
 
-is a web app for long-distance partners to check the time remaining before they reunite - in heartbeats. Additionally, weather and time information that help create a sense of connection. and also Sents Cute Whatsapp Messages and Audio Through Ultra Msg Whatsapp Api and Spotify music link.
+This project is a web app for long-distance partners to check the time remaining before they reunite - in heartbeats. Additionally, weather and time information that help create a sense of connection. and also Sents Cute Whatsapp Messages and Audio Through Ultra Msg Whatsapp Api and Spotify music link.
 
-\*\*Note: This project is developed for mac os Sonoma 14.3.1 and maybe not work on other operating system due to the open cv, pandas, flask.
+\*Note: This project is developed for mac os Sonoma 14.4 and maybe not work on other operating system.
 
 ## Installation
 
-1. Clone the repository to your local machine. `git clone git@github.com:xodivorce/Weathering-with-You.git`.
+1. Clone the repository to your local machine. `git clone git@github.com:xodivorce/Weathering-with-You.`.
 2. Open the repository.
 
 ## Usage
@@ -17,7 +17,8 @@ is a web app for long-distance partners to check the time remaining before they 
 
 ## Uses
 
-1.
+1. [Open Weather Map](https://openweathermap.org/) for weather data.
+2. [Geonames](https://www.geonames.org/) for timezone data.
 
 ## Contributing
 
